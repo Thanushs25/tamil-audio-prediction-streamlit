@@ -1,5 +1,9 @@
 # Emotion Prediction from Tamil Audio 🎵
-demo.png
+
+[link] https://tamil-audio-emotion-prediction.streamlit.app/
+
+(demo.png)
+
 This project is a Streamlit web application that predicts emotions from Tamil audio recordings. Users can either record their audio directly on the web app or upload an audio file for emotion prediction. The app uses a pre-trained TensorFlow model to classify the audio into one of five emotions: Angry, Fear, Happy, Neutral, or Sad.
 
 ## Table of Contents
