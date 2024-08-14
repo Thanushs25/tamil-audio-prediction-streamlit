@@ -2,8 +2,7 @@
 
 [link] https://tamil-audio-emotion-prediction.streamlit.app/
 
-[!(demo.png)]
-[![An old rock in the desert](demo.png "Shiprock, New Mexico by Beau Rogers")]
+[![An old rock in the desert](demo.png "Sample Page")]
 
 This project is a Streamlit web application that predicts emotions from Tamil audio recordings. Users can either record their audio directly on the web app or upload an audio file for emotion prediction. The app uses a pre-trained TensorFlow model to classify the audio into one of five emotions: Angry, Fear, Happy, Neutral, or Sad.
 
