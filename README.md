@@ -1,6 +1,6 @@
 # Emotion Prediction from Tamil Audio 🎵
 
-[link] https://tamil-audio-emotion-prediction.streamlit.app/
+https://tamil-audio-emotion-prediction.streamlit.app/
 
 [![An old rock in the desert](demo.png "Sample Page")]
 
