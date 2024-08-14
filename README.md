@@ -5,10 +5,7 @@ This project is a Streamlit web application that predicts emotions from Tamil au
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [How to Run](#how-to-run)
 - [Usage](#usage)
-- [Model](#model)
-- [License](#license)
 
 ## Features
 - Record audio directly within the app.
@@ -36,7 +33,8 @@ This project is a Streamlit web application that predicts emotions from Tamil au
     streamlit run app.py
 5. **Access the application:**
    - Once the server starts, you can access the app in your web browser at http://localhost:8501.
-6. **Usage**
+
+## Usage
 **Record Audio:**
 
 - Navigate to the recording section of the app.
